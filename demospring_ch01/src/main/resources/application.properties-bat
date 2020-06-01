@@ -1,0 +1,7 @@
+#\uFFFD\uFFFD\uFFFD\uFFFD\u02B9\uFFFD\uFFFD\uFFFD\u01F8\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD\u013C\uFFFD
+#spring.profiles.active=online
+server.port=9000
+server.servlet.context-path=/spring-wbe01
+person.name=\u5F20\u4E09
+person.age=12
+person.boss=false

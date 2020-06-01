@@ -1,0 +1,6 @@
+server:
+  port: 9090
+person:
+  name: 张三
+  age: 15
+  boss: false
